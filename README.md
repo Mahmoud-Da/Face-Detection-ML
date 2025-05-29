@@ -41,7 +41,6 @@ git clone <your-repository-url>
 cd <your-project-directory>
 ```
 
-````
 
 ### Step 2: Check/Generate Pipfile.lock
 
